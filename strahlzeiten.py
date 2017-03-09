@@ -1,12 +1,6 @@
 #!python
 """
     DISCLAIMER
-    This software scrapes an website without id, classes and nested tables
-    instead asking a database. At some point it will fail and errors are
-    expected. Please use this calendar with caution and do not hesitate to
-    recheck on  https://www.hzdr.de/db/!Elbe.StrahlZeitPlan_V2.Liste
-
-    Copyright 2017 p.petring@hzdr.de
 
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this software and associated documentation files (the "Software"),
